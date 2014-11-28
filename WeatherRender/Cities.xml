@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Cities>
+  <Location name="اراك"   id="0"  CityPath="01 - Arak" />
+  <Location name="اردبيل" id="0"  CityPath="02 - Ardabil" />
+  <Location name="اروميه" id="0"  CityPath="03 - Orumiye" />
+  <Location name="اصفهان" id="0"  CityPath="04 - Esfahan" />
+  <Location name="اهواز" id="0"  CityPath="05 - Ahvaz" />
+  <Location name="ايلام" id="0"  CityPath="06 - Ilam" />
+  <Location name="بجنورد" id="0"  CityPath="07 - Bojnoord" />
+  <Location name="بندر عباس" id="0"  CityPath="08 - Bandar Abbas" />
+  <Location name="بوشهر" id="0"  CityPath="09 - Nowshahr" />
+  <Location name="بيرجند" id="0"  CityPath="10 - Birjand" />
+  <Location name="تبريز" id="0"  CityPath="11 - Tabriz" />
+  <Location name="تهران" id="0"  CityPath="12 - Tehran" />
+  <Location name="خرم آباد" id="0"  CityPath="13 - Khorram Abad" />
+  <Location name="زاهدان" id="0"  CityPath="14 - Zahedan" />
+  <Location name="زنجان" id="0"  CityPath="15 - Zanjan" />
+  <Location name="ساري" id="0"  CityPath="16 - Sari" />
+  <Location name="سمنان" id="0"  CityPath="17 - Semnan" />
+  <Location name="سنندج" id="0"  CityPath="18 - Sanandaj" />
+  <Location name="شهركرد" id="0"  CityPath="19 - Shahr e Kord" />
+  <Location name="شيراز" id="0"  CityPath="20 - Shiraz" />
+  <Location name="رشت" id="0"  CityPath="21 - Rasht" />
+  <Location name="گرگان" id="0"  CityPath="22 - Gorgan" />
+  <Location name="قزوين" id="0"  CityPath="23 - Ghazvin" />
+  <Location name="قم" id="0"  CityPath="24 - Ghom" />
+  <Location name="كرج" id="0"  CityPath="25 - Karaj" />
+  <Location name="کرمان" id="0"  CityPath="26 - Kerman" />
+  <Location name="كرمانشاه" id="0"  CityPath="27 - Kermanshah" />
+  <Location name="مشهد" id="0"  CityPath="28 - Mashhad" />
+  <Location name="همدان" id="0"  CityPath="29 - Hamedan" />
+  <Location name="ياسوج" id="0"  CityPath="30 Yasooj" />
+  <Location name="يزد" id="0"  CityPath="31 - Yazd" />
+</Cities>
